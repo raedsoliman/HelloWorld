@@ -1,2 +1,1 @@
-Hello World Example 
-Testing deployment on CSP
+# Hello World example for testing deployment on CSP
